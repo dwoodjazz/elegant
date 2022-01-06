@@ -1,2 +1,2 @@
 # elegant
-just a practice sites
+just a practice site
